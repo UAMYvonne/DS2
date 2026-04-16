@@ -23,5 +23,8 @@ This repository contains all the necessary assets for the Customer Churn Analysi
 1. **Contract Strategy:** Convert monthly users to annual plans to stabilize revenue.
 2. **Quality Audit:** Investigate the Fiber Optic service experience to reduce segment-specific churn.
 3. **Payment Optimization:** Encourage a move from Electronic Checks to Automated Credit Card payments.
+   
+   **Prepared by:** [Aime Marie Yvone UWAMAHORO]
+**Internship CIN:** [ FIT/MAR26/DS15943]
 
 *Created as part of the Future Interns Data Science & Analytics Internship.*
